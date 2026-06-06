@@ -7,7 +7,7 @@ import MeetingPrep from './modules/MeetingPrep';
 import Communications from './modules/Communications';
 import Portfolio from './modules/Portfolio';
 //import CopilotCSM from './modules/CopilotCSM';
-import KnowledgeBase from './modules/KnowledgeBase';
+//import KnowledgeBase from './modules/KnowledgeBase';
 
 function MissingModule() {
   return (
